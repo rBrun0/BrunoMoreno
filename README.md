@@ -38,7 +38,7 @@ Atualmente trabalho com **TypeScript**, **Next.js** e **TailwindCSS**, sempre bu
 ---
 
 ### 📫 Onde me encontrar
-- 💼 [LinkedIn]([https://www.linkedin.com/in/brunomoreno](https://www.linkedin.com/in/bruno-romero-959a551a2/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-romero-959a551a2/)  
 - 💻 [Portfólio (em breve)]()  
 - ✉️ **romerobruno788@gmail.com**
 
