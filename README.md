@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Bruno Moreno
 
-Sou desenvolvedor **Front-end** com foco em criar interfaces modernas, performáticas e bem estruturadas.  
-Atualmente trabalho com **TypeScript**, **Next.js** e **TailwindCSS**, sempre buscando evoluir na qualidade do código e na arquitetura dos projetos.
+Sou desenvolvedor **Front-end** com foco em criar interfaces modernas, performáticas e bem estruturadas.
+Atualmente trabalho com **TypeScript**, **Next.js** e **TailwindCSS** (experiencia real desenvolvendo ERP), sempre buscando evoluir na qualidade do código e na arquitetura dos projetos.
 
 ---
 
